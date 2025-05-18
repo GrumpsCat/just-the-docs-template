@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# 🧭 Curio Challenge Index
+# 🧭 Curio Challenge Index 2.0
 
 Welcome to **Curio**, a creative space for exploring philosophical, cognitive, and cultural questions through writing and research-based prompts.
 
