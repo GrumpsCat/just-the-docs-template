@@ -11,7 +11,7 @@ This site features curated topic maps — each filled with keywords, historical 
 
 ## ✨ Topics
 
-- [Panpsychism](panpsychism)
+- - [Panpsychism](panpsychism)
 - [Linguistic Relativity (Sapir–Whorf)](sapir-whorf)
 
 More topics are being added regularly. Choose one and start creating.
